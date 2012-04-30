@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnrepo/!svn/ver/8904/opendata/candidate_answers/preprocess
+END
+tojson.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnrepo/!svn/ver/8906/opendata/candidate_answers/preprocess/tojson.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnrepo/!svn/ver/8906/opendata/candidate_answers/preprocess/__init__.py
+END
+fragebogen_bern2008.csv
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnrepo/!svn/ver/8904/opendata/candidate_answers/preprocess/fragebogen_bern2008.csv
+END
+data_bern2008_stadtratswahlen.csv
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnrepo/!svn/ver/8904/opendata/candidate_answers/preprocess/data_bern2008_stadtratswahlen.csv
+END
